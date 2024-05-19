@@ -1,6 +1,6 @@
 # cable-client
 
-TODO: Write a description here
+A websocket client for connecting to a [Cable](https://github.com/cable-cr/cable) server with Crystal.
 
 ## Installation
 
