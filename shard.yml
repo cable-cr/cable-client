@@ -1,0 +1,9 @@
+name: cable-client
+version: 0.1.0
+
+authors:
+  - Jeremy Woertink <jeremywoertink@gmail.com>
+
+crystal: ">= 1.10.0"
+
+license: MIT
